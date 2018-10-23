@@ -2,6 +2,7 @@
 
 function rrt = path_planner
 %http://coecsl.ece.illinois.edu/ge423/spring13/RickRekoskeAvoid/rrt.html
+% 10/23/18 CB Added some comments and debug output to help understand the rrt
 clf
 % Import Obstacle Locations
 filename ='Simple2Obst.txt';
